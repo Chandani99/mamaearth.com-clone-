@@ -1,6 +1,6 @@
 # mamaearth.com-clone-
 
-blog link:https://medium.com/@alishamohasin85/our-first-collabrative-project-at-masai-school-mamaearth-clone-3dfcc8c15818
+blog link:[https://medium.com/@alishamohasin85/our-first-collabrative-project-at-masai-school-mamaearth-clone-3dfcc8c15818](https://medium.com/@er.chandni99/our-first-collabrative-project-at-masai-school-mamaearth-clone-2bfb6a3ce193)
 
 
 # Mamaearth Clone
